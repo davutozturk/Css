@@ -1,0 +1,33 @@
+h1 {
+    font-size: 36px;
+    color: rgb(211, 174, 8); 
+    margin: 10px;
+}
+h2 {
+    margin: 10px;
+    font-size: 18px;
+}
+h3 {
+    color: rgb(132, 40, 218);
+    font-size: 28px;
+    margin: 10px
+}
+h4 {
+    margin: 10px;
+    color: rgb(132, 40, 218);
+}
+h5 {
+    margin: 10px;
+    color: rgb(41, 34, 48);
+    font-size: 20px;
+}
+.ortala {
+    text-align: center;
+}
+a {
+    color: rgb(92, 89, 89);
+}
+p {
+    font-family: cursive;
+}
+
